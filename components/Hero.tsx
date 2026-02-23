@@ -14,11 +14,11 @@ export const Hero: React.FC = () => {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-600"></span>
             </span>
-            Africa's Bridge to Global Capital
+            Africa's Oyjen
           </div>
 
           <h1 className="reveal reveal-delay-1 text-5xl md:text-7xl font-bold tracking-tight mb-8 leading-[1.1] text-slate-900">
-            Connecting Africa to  <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-blue-600">Global Capital</span>
+            Connecting Africa to  <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-blue-600">Global Opportunities</span>
           </h1>
 
           <p className="reveal reveal-delay-2 text-slate-600 text-lg md:text-xl max-w-xl mb-12 leading-relaxed">
