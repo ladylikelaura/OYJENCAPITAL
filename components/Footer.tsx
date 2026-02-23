@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
               <img
                 src="/images/logo.png"
                 alt="OYJEN Capital Logo"
-                className="h-8 w-auto object-contain"
+                className="h-10 w-auto object-contain"
               />
               <span className="text-xl font-bold tracking-tight uppercase text-slate-900">OYJEN <span className="text-emerald-600">Capital</span></span>
             </div>

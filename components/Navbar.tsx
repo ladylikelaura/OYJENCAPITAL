@@ -12,7 +12,7 @@ export const Navbar: React.FC = () => {
           <img
             src="/images/logo.png"
             alt="OYJEN Capital Logo"
-            className="h-8 w-auto object-contain transition-transform duration-300 group-hover:rotate-12"
+            className="h-10 w-auto object-contain transition-transform duration-300 group-hover:rotate-12"
           />
           <span className="text-xl font-semibold tracking-tight uppercase text-slate-900">OYJEN <span className="text-emerald-600">Capital</span></span>
         </div>
