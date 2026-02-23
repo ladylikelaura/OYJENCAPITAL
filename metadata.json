@@ -1,0 +1,8 @@
+
+{
+  "name": "OYJEN Capital",
+  "description": "Africa's Bridge to Global Capital - A sophisticated venture capital and investment advisory platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
