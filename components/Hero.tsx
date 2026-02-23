@@ -14,7 +14,7 @@ export const Hero: React.FC = () => {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-600"></span>
             </span>
-            Africa's Oyjen
+            Africa's Bridge to Global Capital
           </div>
 
           <h1 className="reveal reveal-delay-1 text-5xl md:text-7xl font-bold tracking-tight mb-8 leading-[1.1] text-slate-900">
@@ -22,7 +22,7 @@ export const Hero: React.FC = () => {
           </h1>
 
           <p className="reveal reveal-delay-2 text-slate-600 text-lg md:text-xl max-w-xl mb-12 leading-relaxed">
-            Connecting institutional investors, global innovators, and forward-thinking governments to high-impact opportunities across Africa's strategic industrial corridors.
+            Helping institutional investors, and forward-thinking governments to high-impact opportunities across Africa's strategic industrial corridors.
           </p>
 
           <div className="reveal reveal-delay-3 flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
